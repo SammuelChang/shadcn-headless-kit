@@ -32,6 +32,7 @@
 - [**Eldora UI**](https://www.eldoraui.site/) – Headless animated UI components built with Tailwind. `🪪 MIT`
 - [**reactbits**](https://www.reactbits.dev/) – Reusable, interactive component primitives.
 - [**reverseui**](https://reverseui.com/) – Components focusing on animated transitions and UX patterns.
+- [**Uiverse**](https://uiverse.io/) - The Largest Library of Open-Source UI, Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
 
 ## 💎 Premium Headless UI
 
