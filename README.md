@@ -20,7 +20,7 @@
 - [**Flowrift**](https://flowrift.com/w/) – A collection of Tailwind UI snippets with potential headless integrations.
 - [**MerakiUI**](https://t.co/S2sTdXzIBO) – Tailwind-based components with headless principles. `🪪 MIT`
 - [**PrelineUI**](https://preline.co/) – A large component library using headless logic with Tailwind. `🪪 MIT`
-- [**ElevenLabs UI | ElevenLabs UI**](https://ui.elevenlabs.io/) – A collection of Open Source agent and audio components that you can customize and extend. `🪪 MIT`
+- [**ElevenLabs UI**](https://ui.elevenlabs.io/) – A collection of Open Source agent and audio components that you can customize and extend. `🪪 MIT`
 
 ## 🎞️ Headless Animation & Interaction
 
