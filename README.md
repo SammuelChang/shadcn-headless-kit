@@ -34,6 +34,7 @@
 - [**reactbits**](https://www.reactbits.dev/) – Reusable, interactive component primitives.
 - [**reverseui**](https://reverseui.com/) – Components focusing on animated transitions and UX patterns.
 - [**Uiverse**](https://uiverse.io/) - The Largest Library of Open-Source UI, Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
+- [**Dalim**](https://aliimam.in/) - I create digital experiences that connect and inspire. I build apps, websites, brands, and products end-to-end.
 
 ## 🔍 Icons
 - [**Lucide**](https://lucide.dev/) - Beautiful & consistent icons Made by the community.
