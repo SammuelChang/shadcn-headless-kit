@@ -21,6 +21,7 @@
 - [**MerakiUI**](https://t.co/S2sTdXzIBO) – Tailwind-based components with headless principles. `🪪 MIT`
 - [**PrelineUI**](https://preline.co/) – A large component library using headless logic with Tailwind. `🪪 MIT`
 - [**ElevenLabs UI**](https://ui.elevenlabs.io/) – A collection of Open Source agent and audio components that you can customize and extend. `🪪 MIT`
+- [**Square UI**](https://square.lndev.me/) - Collection of beautifully crafted open-source layouts UI built with Next.js and shadcn/ui. `🪪 MIT`
 
 ## 🎞️ Headless Animation & Interaction
 
