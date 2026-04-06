@@ -13,6 +13,7 @@
 - [**Enhanced Buttons**](https://enhanced-button.vercel.app/) – A collection of advanced and styled button components.
 - [**Credenza**](https://credenza.rdev.pro/) – A headless modal solution with transition effects.
 - [**Vaul**](https://vaul.emilkowal.ski/) – A headless tab and drawer component system, ideal for overlays and navigation.
+- [**ReUI**](https://reui.io/) – Supercharge your shadcn/ui projects & ship faster.
 
 ## 🧩 Headless UI Libraries
 
